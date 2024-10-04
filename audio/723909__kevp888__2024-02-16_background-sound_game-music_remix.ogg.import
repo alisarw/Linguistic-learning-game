@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/723909__kevp888__2024-02-16_background-sound_game-music_remix.ogg-e366b8f89caad17d5de502aa5f6c8cab.oggstr"
+
+[deps]
+
+source_file="res://audio/723909__kevp888__2024-02-16_background-sound_game-music_remix.ogg"
+dest_files=[ "res://.import/723909__kevp888__2024-02-16_background-sound_game-music_remix.ogg-e366b8f89caad17d5de502aa5f6c8cab.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0
